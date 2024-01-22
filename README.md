@@ -72,3 +72,10 @@ This repository serves as a comprehensive display of my data science and machine
     </tr>
 </table>
 
+---
+
+## Notice
+
+Please note that some of the projects in this repository are linked directly to Kaggle due to their interactive nature and comprehensive datasets, which may not be fully visible on GitHub. For an in-depth view and complete experience of these projects, I recommend clicking on the links provided in the table above, which will take you to the original Kaggle notebooks.
+
+If you have any questions or suggestions regarding my work, feel free to reach out. Your feedback and inquiries are always welcome and appreciated!
