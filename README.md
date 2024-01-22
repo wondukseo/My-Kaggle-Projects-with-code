@@ -1,4 +1,4 @@
-# Kaggle-Projects
+# Kaggle-Projects by Wonduk Seo
 
 ## Introduction
 
@@ -36,11 +36,11 @@ This repository serves as a comprehensive display of my data science and machine
     <tr>
         <td rowspan="2">Natural Language Processing & Machine Learning (NLP_MLDL)</td>
         <td>EDA & ML with LSTM for Spam Email Classification</td>
-        <td>-</td>
+        <td>July 2022</td>
     </tr>
     <tr>
         <td>LSTM Classification on Clothing Reviews</td>
-        <td>-</td>
+        <td>July 2022</td>
     </tr>
     <tr>
         <td>Computer Vision (CV)</td>
