@@ -1,5 +1,7 @@
 # Kaggle-Projects by Wonduk Seo
 
+<img width="1080" alt="image" src="https://github.com/MarsSeo/My-Kaggle-Projects-with-code/assets/103374757/d1c146b8-b7fe-4fdc-ab82-f79ab863372c">
+
 ## Introduction
 
 This repository serves as a comprehensive display of my data science and machine learning expertise, documented through an extensive range of over 10 Kaggle projects. It encompasses a variety of domains including Exploratory Data Analysis (EDA), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and time series analysis. Each project within this repository reflects a dedicated effort to explore and solve complex data problems, showcasing both technical skills and creative approaches.
