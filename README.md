@@ -2,6 +2,7 @@
 
 <img width="1074" alt="image" src="https://github.com/MarsSeo/My-Kaggle-Projects-with-code/assets/103374757/dfdc4473-09b6-45ad-8189-b7c86a4c4bf5">
 
+Link: <h https://www.kaggle.com/wonduk
 ## Introduction
 
 This repository serves as a comprehensive display of my data science and machine learning expertise, documented through an extensive range of over 10 Kaggle projects. It encompasses a variety of domains including Exploratory Data Analysis (EDA), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and time series analysis. Each project within this repository reflects a dedicated effort to explore and solve complex data problems, showcasing both technical skills and creative approaches.
@@ -24,48 +25,49 @@ This repository serves as a comprehensive display of my data science and machine
     </tr>
     <tr>
         <td rowspan="3">Exploratory Data Analysis (EDA)</td>
-        <td>EDA on Data Science Job Salaries</td>
+        <td><a href="[link-to-eda-on-data-science-job-salaries](https://www.kaggle.com/code/wonduk/eda-on-data-science-job-salaries)">EDA on Data Science Job Salaries</a></td>
         <td>June 2022</td>
     </tr>
     <tr>
-        <td>EDA on Top 100 YouTube Dataset</td>
+        <td><a href="[link-to-eda-on-top-100-youtube-dataset](https://www.kaggle.com/code/wonduk/eda-on-top100-youtube-channel-dataset)">EDA on Top 100 YouTube Dataset</a></td>
         <td>June 2022</td>
     </tr>
     <tr>
-        <td>EDA on Tennis Grand Slam Winners</td>
+        <td><a href="[link-to-eda-on-tennis-grand-slam-winners](https://www.kaggle.com/code/wonduk/eda-on-tennis-grand-slam-winners)">EDA on Tennis Grand Slam Winners</a></td>
         <td>March 2023</td>
     </tr>
     <tr>
         <td rowspan="2">Natural Language Processing & Machine Learning (NLP_MLDL)</td>
-        <td>EDA & ML with LSTM for Spam Email Classification</td>
-        <td>July 2022</td>
+        <td><a href="[link-to-eda-ml-lstm-spam-email](https://www.kaggle.com/code/wonduk/eda-ml-lstm-classification-on-spam-email)">EDA & ML with LSTM for Spam Email Classification</a></td>
+        <td>-</td>
     </tr>
     <tr>
-        <td>LSTM Classification on Clothing Reviews</td>
-        <td>July 2022</td>
+        <td><a href="[link-to-lstm-clothing-reviews](https://www.kaggle.com/code/wonduk/eda-lstm-classification-on-clothing-reviews)">LSTM Classification on Clothing Reviews</a></td>
+        <td>-</td>
     </tr>
     <tr>
         <td>Computer Vision (CV)</td>
-        <td>TensorFlow CNN for Digit Classification</td>
+        <td><a href="[link-to-tensorflow-cnn-digit-classification](https://www.kaggle.com/code/wonduk/explained-tensorflow-cnn-digit-classification)">TensorFlow CNN for Digit Classification</a></td>
         <td>October 2022</td>
     </tr>
     <tr>
         <td rowspan="3">Machine Learning - Supervised & Unsupervised (ML_Unsupervised_Supervised)</td>
-        <td>Pokemon Legendary Classification</td>
+        <td><a href="[link-to-pokemon-legendary-classification](https://www.kaggle.com/code/wonduk/analysis-on-pokemon-dataset-is-or-not-legendary)">Pokemon Legendary Classification</a></td>
         <td>March 2022</td>
     </tr>
     <tr>
-        <td>Text Clustering & PCA EDA on COVID-19</td>
+        <td><a href="[link-to-text-clustering-covid19](https://www.kaggle.com/code/wonduk/text-clustering-pca-eda-on-covid19-dataset)">Text Clustering & PCA EDA on COVID-19</a></td>
         <td>July 2022</td>
     </tr>
     <tr>
-        <td>Predictive Modeling for Online Education Adaptivity</td>
+        <td><a href="[link-to-predictive-modeling-online-education](https://www.kaggle.com/code/wonduk/predict-eda-on-adaptivity-in-online-education)">Predictive Modeling for Online Education Adaptivity</a></td>
         <td>December 2022</td>
     </tr>
     <tr>
         <td>Deep Learning - Supervised & Unsupervised (DL_Unsupervised_Supervised)</td>
-        <td>PyTorch LSTM for Daily Climate Forecasting</td>
+        <td><a href="[link-to-pytorch-lstm-climate-forecasting](https://www.kaggle.com/code/wonduk/pytorch-lstm-daily-climate-forecasting)">PyTorch LSTM for Daily Climate Forecasting</a></td>
         <td>March 2023</td>
     </tr>
 </table>
+
 
