@@ -1,6 +1,7 @@
 # Kaggle-Projects by Wonduk Seo
 
-<img width="1080" alt="image" src="https://github.com/MarsSeo/My-Kaggle-Projects-with-code/assets/103374757/d1c146b8-b7fe-4fdc-ab82-f79ab863372c">
+<img width="1007" alt="image" src="https://github.com/MarsSeo/My-Kaggle-Projects-with-code/assets/103374757/b7e5eb08-f335-4b9f-b90f-c6033317fe4e">
+
 
 ## Introduction
 
