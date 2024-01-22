@@ -2,7 +2,8 @@
 
 <img width="1074" alt="image" src="https://github.com/MarsSeo/My-Kaggle-Projects-with-code/assets/103374757/dfdc4473-09b6-45ad-8189-b7c86a4c4bf5">
 
-Link: <h https://www.kaggle.com/wonduk
+<a href="https://www.kaggle.com/wonduk">Kaggle Profile: wonduk</a>
+
 ## Introduction
 
 This repository serves as a comprehensive display of my data science and machine learning expertise, documented through an extensive range of over 10 Kaggle projects. It encompasses a variety of domains including Exploratory Data Analysis (EDA), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), and time series analysis. Each project within this repository reflects a dedicated effort to explore and solve complex data problems, showcasing both technical skills and creative approaches.
