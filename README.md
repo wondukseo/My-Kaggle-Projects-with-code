@@ -12,10 +12,10 @@ This repository serves as a comprehensive display of my data science and machine
 
 ## Key Achievements
 
-* Showcasing over 10 in-depth projects in EDA, ML, NLP, CV, and time series, reflecting versatility.
-* One standout Kaggle notebook achieved over 20,000 views and 260+ votes, showcasing community engagement.
-* Collectively, my work has received 800+ votes and been replicated over 900 times, indicating popularity.
-* Honored with 3 gold and 9 silver medals, recognizing exceptional contributions in various data science competitions.
+* Showcasing 10+ in-depth projects in EDA, ML, NLP, CV, time series.
+* Achieved over 20,000 views, 260 votes on standout Kaggle notebook.
+* My work earned 800+ votes, replicated 900+ times, indicating impact.
+* Received 3 gold, 9 silver medals, highlighting achievements in data science.
 
 ## Table of Contents
 
