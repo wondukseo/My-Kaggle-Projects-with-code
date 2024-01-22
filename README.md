@@ -41,11 +41,11 @@ This repository serves as a comprehensive display of my data science and machine
     <tr>
         <td rowspan="2">Natural Language Processing & Machine Learning (NLP_MLDL)</td>
         <td><a href="https://www.kaggle.com/code/wonduk/eda-ml-lstm-classification-on-spam-email">EDA & ML with LSTM for Spam Email Classification</a></td>
-        <td>-</td>
+        <td>July 2022</td>
     </tr>
     <tr>
         <td><a href="https://www.kaggle.com/code/wonduk/eda-lstm-classification-on-clothing-reviews">LSTM Classification on Clothing Reviews</a></td>
-        <td>-</td>
+        <td>July 2022</td>
     </tr>
     <tr>
         <td>Computer Vision (CV)</td>
